@@ -1,2 +1,3 @@
 some text changes
 There is line for pull test
+And here is local conflict change
