@@ -4,4 +4,5 @@ This is new-repo for completing https://github.com/1-PF/csas-Kata-01-git-04-remo
 
 Git fetch test
 
-And here is remote confilct change
+And here is remote conflict change
+And here is second remote conflict change
